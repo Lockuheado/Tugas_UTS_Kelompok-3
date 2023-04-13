@@ -2,6 +2,14 @@
 
 Base Code Pertemuan Lima Sesuai Video
 
+Anggota Kelompok : 
+- Muhammad Qalam Ilmayasa 2006108
+- Alwan Ardana 2006121
+- Farhan Nurdiansyah 2006119
+- Muhammad Ilham Faiz 1906108
+- Wina Senja Maulina 2006196
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
